@@ -1,2 +1,2 @@
-#Mixed messages Codecademy portfolio project
+# Mixed messages Codecademy portfolio project
 
